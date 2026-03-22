@@ -1,0 +1,5 @@
+[dotenv@17.3.1] injecting env (4) from .env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
+Testing with key starting with: sk-proj-kA...
+Failed to connect to OpenAI.
+Status: 429
+Message: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
